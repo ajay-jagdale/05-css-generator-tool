@@ -2,7 +2,7 @@ import React from 'react';
 import 'bootstrap-icons/font/bootstrap-icons.css';
 
 const socialLinks = [
-    { href: 'https://www.linkedin.com/in/ajay-jagdale', icon: 'bi bi-linkedin', label: 'LinkedIn' },
+    { href: 'https://www.linkedin.com/in/ajay-jagdale', icon: 'bi bi-linkedin', label: 'LinkedInp' },
     { href: 'https://github.com/ajay-jagdale', icon: 'bi bi-github', label: 'GitHub' },
     { href: 'https://x.com/ajayjagdale2912', icon: 'bi bi-twitter-x', label: 'Twitter' },
     { href: 'https://www.instagram.com/ajayjagdale2912', icon: 'bi bi-instagram', label: 'Instagram' },
